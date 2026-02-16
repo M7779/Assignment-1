@@ -68,6 +68,10 @@ os.environ["KAGGLE_USERNAME"] = "mahnoorimran2026"
 os.environ["KAGGLE_KEY"] = "KGAT_63fe84f5f689a013443f1de63d805743"
 
 ---
+## The Kaggle PaySim dataset is not included in this repository due to its large file size. To reproduce the pipeline, download the dataset directly from Kaggle using the Kaggle API. After downloading, place the CSV file inside the data/raw directory before running the pipeline.
+
+https://www.kaggle.com/datasets/ealaxi/paysim1
+
 
 ## How to Run the Pipeline
 
@@ -113,4 +117,5 @@ The engineered datasets could support:
 
 Name: Mahnoor Imran
 ID: 25280082
+Course: AI 620 – Data Engineering for AI Systems
 
