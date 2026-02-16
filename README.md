@@ -1,5 +1,3 @@
-# Assignment-1
-ELT Pipeline
 # Financial Technology ELT Pipeline
 Domain: Digital Payments
 
@@ -115,3 +113,5 @@ The engineered datasets could support:
 
 Name: Mahnoor Imran
 ID: 25280082
+Course: AI 620 – Data Engineering for AI Systems
+
